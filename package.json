@@ -1,0 +1,10 @@
+{
+  "name": "RecipeHub",
+  "version": "1.0.0",
+  "description": "A place to share family recipes",
+  "main": "index.js",
+  "repository": "git@github.com:ZeMunchkin/recipeHub.git",
+  "author": "Sara Brandes",
+  "license": "MIT",
+  "private": true
+}
